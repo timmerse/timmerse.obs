@@ -15,4 +15,5 @@ A video chat tool for OBS by timmerse.
 ## Contact
 
 * [Discord: Timmerse Community](https://discord.gg/Dp8twbsDra)
+* [Wechat: Timmerse Group](https://timmerse2w-1258344699.cos.accelerate.myqcloud.com/images/timmerse-wechat.jpeg)
 
