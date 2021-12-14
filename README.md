@@ -9,9 +9,10 @@ A video chat tool for OBS by timmerse.
 
 ## Features
 
-* OBS Browser Source, integrate with OBS simple.
-* Green background, for [Green Screen / Chroma Key in OBS](https://youtu.be/8faHiVALNqE).
-* Low bitrate about 300~500kbps per user, to ensure the live streaming is ok.
+- [x] OBS Browser Source, integrate with OBS simple.
+- [x] Green background, for [Green Screen / Chroma Key in OBS](https://youtu.be/8faHiVALNqE).
+- [x] Low bitrate about 300~500kbps per user, to ensure the live streaming is ok.
+- [ ] White board to fix position and size of user.
 
 ## Contact
 
