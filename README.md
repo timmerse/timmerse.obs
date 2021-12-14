@@ -11,7 +11,7 @@ A video chat tool for OBS by timmerse.
 
 * OBS Browser Source, integrate with OBS simple.
 * Green background, for [Green Screen / Chroma Key in OBS](https://youtu.be/8faHiVALNqE).
-* Low bitrate about 300~500kbps, to ensure the live streaming is ok.
+* Low bitrate about 300~500kbps per user, to ensure the live streaming is ok.
 
 ## Contact
 
