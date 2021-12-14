@@ -13,8 +13,10 @@ A video chat tool for OBS by timmerse.
 - [x] Green background, for [Green Screen / Chroma Key in OBS](https://youtu.be/8faHiVALNqE).
 - [x] Low bitrate about 300~500kbps per user, to ensure the live streaming is ok.
 - [x] Global communication service over the whole world.
+- [x] Browser based, simple to use in any platform.
 - [ ] White board to fix position and size of user.
 - [ ] Adjust the size of user camera, beyond round or circle.
+- [ ] Wechat mini program user agent.
 
 ## Contact
 
